@@ -1,0 +1,27 @@
+{
+  "empolyee": [
+    {
+      "empId": "dataact0209090",
+      "empName": "Jyoti",
+      "address": "pune",
+      "contact": "7890567420",
+      "female": null,
+      "male": null,
+      "other": null,
+      "emprole": "data anaylist",
+      "email": "rachana@gmail.com",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "empId": "tcs43215689",
+      "empName": "anvi",
+      "address": "pune",
+      "contact": "8098766710",
+      "gender": "female",
+      "emprole": "frontend developer",
+      "email": "anvi@gmail.com",
+      "id": 3
+    }
+  ]
+}
